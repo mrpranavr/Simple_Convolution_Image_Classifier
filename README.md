@@ -13,4 +13,4 @@ Use a simple convolution network to classify images of dogs and cats
 ## NOTE : 
 - To make prediction you can get any pictures of dogs and cats you want. Whether it may be from internet or from local device.
 - Save image from internet and upload it to google colab and specify the file name in the code given
-- You can upload already existing file from your local device in the same way and make predictions.
+- You can upload already existing file from your local device in the same way and make predictions
